@@ -13,7 +13,7 @@ QA Tester with 3 years of experience in manual testing for web applications, inc
 - Basic Automation (Robot Framework, Playwright)
 
 ## 📂 Projects
-- 🚧 Coming soon (Manual Testing Project)
+- 📂 Manual Testing Project
 - 🚧 Coming soon (Automation Test Project)
 
 ## 📫 Contact
